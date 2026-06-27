@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: Remix: PrimeCare Pharmaceutical Distributors",
+  "description": "Medicine Inventory and Inquiry Management System for pharmacy clients and administration staff.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
